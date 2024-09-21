@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core.iml" filepath="$PROJECT_DIR$/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-modules.iml" filepath="$PROJECT_DIR$/.idea/java-modules.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins.iml" filepath="$PROJECT_DIR$/plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-modules.iml" filepath="$PROJECT_DIR$/java-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/java-modules.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/java-modules.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/java-modules.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/java-modules.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/java-modules.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/java-modules.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/java-modules.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/java-modules.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/java-modules.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/java-modules.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/java-modules.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/java-modules.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-modules.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-modules.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/java-modules.plugins.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/java-modules.plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/java-modules.plugins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/java-modules.plugins.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugins/java-modules.plugins.test.iml" filepath="$PROJECT_DIR$/.idea/modules/plugins/java-modules.plugins.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-modules.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-modules.test.iml" />
     </modules>
   </component>
 </project>
